@@ -6,3 +6,12 @@
 /CinemaApi/bin
 /CinemaApi/obj
 /CinemaApi/Properties
+/CinemaApp/.vs/CinemaApp/v16
+/CinemaApp/CinemaApp/bin/Debug/netstandard2.0
+/CinemaApp/CinemaApp/obj
+/CinemaApp/CinemaApp.Android/bin/Debug
+/CinemaApp/CinemaApp.Android/obj
+/CinemaApp/CinemaApp.iOS/obj
+/CinemaApp/CinemaApp.UWP/obj
+/CinemaApp/CinemaApp.iOS/bin/iPhoneSimulator/Debug
+/CinemaApp/CinemaApp.UWP/bin/x86/Debug
